@@ -11,8 +11,8 @@ As parents, we always want the very best for our children. This journey has taug
 - We personally pack your orders with care
 - We strive for the best customer service, aiming to help you take care of your family as we do ours
 
-What else do you need?
+# What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+# To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29)
