@@ -3,7 +3,7 @@ layout: post
 title: Little Nose Patch Onion
 subtitle: Herbal Patch for Cold and Nasal Congestion
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/LittleNosePatch.jpeg
 share-img: /assets/img/path.jpg
 tags: [books, test]
 author: Tokpeeroo
